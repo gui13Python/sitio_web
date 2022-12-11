@@ -119,7 +119,7 @@ h3{
 
 .produtos{
     display: flex;
-    margin-left:70px;
+    margin-left:50px;
     align-items: center;
     align-content: space-between;
     flex-wrap:wrap;
