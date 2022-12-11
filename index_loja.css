@@ -119,16 +119,22 @@ h3{
 
 .produtos{
     display: flex;
-    margin-left:50px;
-    align-items: center;
+    margin-left:0px;
+    
     align-content: space-between;
     flex-wrap:wrap;
-    justify-items: auto;
-    justify-content: space-around;
-    
-    
-    
+ 
+}
 
+.baton{
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    word-wrap: normal;
+   
+    
+   
     
 }
 
